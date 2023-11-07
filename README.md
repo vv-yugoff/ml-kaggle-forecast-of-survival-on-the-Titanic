@@ -1,4 +1,4 @@
-# ml-kaggle-forecast-of-survival-on-the-Titanic
+# Forecast of survival on the Titanic
 
 This project uses machine learning to create a model that predicts which passengers survived the shipwreck of the Titanic.
 
