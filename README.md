@@ -9,3 +9,9 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 
 prediction-titanic.ipynb: This work has a result of 0.73923
 titanic.ipynb: This work has a result of 0.72727
+
+In the latest version of the project, two methods of data prediction were used (RandomForestClassifier and GradientBoostingClassifier)
+All code is commented, the best result was shown by GradientBoostingClassifier
+Score: 0.77511
+
+The code will be improved in the future.
