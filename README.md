@@ -7,4 +7,5 @@ Train.csv will contain the details of a subset of the passengers on board (891 t
 The test.csv dataset contains similar information but does not disclose the “ground truth” for each passenger. It’s your job to predict these outcomes.
 Using the patterns you find in the train.csv data, predict whether the other 418 passengers on board (found in test.csv) survived.
 
-This work has a result of 0.72727
+prediction-titanic.ipynb: This work has a result of 0.73923
+titanic.ipynb: This work has a result of 0.72727
